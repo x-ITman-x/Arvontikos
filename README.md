@@ -47,7 +47,7 @@ Suomessakin näkyy jatkuvasti sisältöjä, joissa tekoäly, automaatio, kaupank
 
 Tällaisissa keskusteluissa esiin nousevat usein nimet kuten:
 
-- - Olli Rehn
+- Olli Rehn
 - Ruben Stiller
 - Annika Damström
 
